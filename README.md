@@ -48,7 +48,7 @@ I conducted a comprehensive case study on a dataset that contained information a
 
 ## 20 Questions Explored
 
-From the dataset, I explored the following 20 questions utilizing PostgreSQL:
+From the dataset, I explored the following 20 questions utilizing MySQL:
 
 1. How many Olympic games have been held?
 2. List down all Olympic games held so far.

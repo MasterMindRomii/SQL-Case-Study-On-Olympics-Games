@@ -46,7 +46,7 @@ I conducted a comprehensive case study on a dataset that contained information a
     | Region | Region name |
     | Notes  | Additional information about the region |
 
-## 20 Questions Explored
+## 20 Questions in which i used advance SQL Topics
 
 From the dataset, I explored the following 20 questions utilizing MySQL:
 
